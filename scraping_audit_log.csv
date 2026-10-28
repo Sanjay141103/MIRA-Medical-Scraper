@@ -1,0 +1,4 @@
+Clinic_Name,Target_URL,Region,Status,HTTP_Status,Failure_Reason,Doctors_Extracted,Duration_Sec,Timestamp
+Glebe Medical Centre Sydney,https://glebemedicalcentre.com.au/our-doctors/,Sydney,SUCCESS,200,None (Extracted Cleanly),13,4.45,2026-10-28 10:26:50
+Chatswood Medical Practice,https://chatswoodmedicalpractice.com.au/our-doctors/,Sydney,SUCCESS,200,None (Extracted Cleanly),9,4.66,2026-10-28 10:26:56
+Coogee Medical Centre,https://coogeemedicalcentre.com.au/our-doctors/,Sydney,SUCCESS,200,None (Extracted Cleanly),12,4.47,2026-10-28 10:27:02
